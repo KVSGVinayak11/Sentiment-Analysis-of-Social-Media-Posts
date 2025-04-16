@@ -43,7 +43,6 @@ Each tweet is labeled with a sentiment category such as Positive, Negative, or N
 ## File Structure
 
 - `twitter-sentiment-analysis.ipynb` — Jupyter notebook containing the full analysis and model pipeline.
-- `requirements.txt` — Python dependencies.
 - `README.md` — Project documentation.
 
 ## Results
