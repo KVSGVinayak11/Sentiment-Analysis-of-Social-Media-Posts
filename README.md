@@ -48,6 +48,7 @@ Each tweet is labeled with a sentiment category such as Positive, Negative, or N
 ## Results
 The model achieves high accuracy in classifying tweet sentiments, demonstrating the effectiveness of LSTM-based architectures for sentiment analysis tasks on Twitter data.
 
-
+## Deployment
+This project includes a sentiment analysis model deployed using Gradio for an interactive web interface. The deployment enables real-time sentiment predictions from user input, leveraging a pre-trained TensorFlow model and tokenizer. Gradio simplifies hosting, making the app accessible locally or via shareable links for easy testing and demonstration.
 
 
